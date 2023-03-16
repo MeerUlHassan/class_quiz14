@@ -1,1 +1,2 @@
-Adding second Commit.
+* Adding second Commit.
+* Adding Third Commit.
